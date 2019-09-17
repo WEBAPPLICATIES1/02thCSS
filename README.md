@@ -1,2 +1,2 @@
 # 02thCSS
-Startbestanden en oplossing van de voorbeelden van  hoofdstuk 2 - CSS
+Startbestanden van de voorbeelden uit de video van hoofdstuk 2 - CSS
